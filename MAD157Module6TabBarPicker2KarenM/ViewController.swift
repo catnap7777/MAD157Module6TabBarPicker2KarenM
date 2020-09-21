@@ -6,6 +6,9 @@
 //  Copyright © 2020 TygerMatrix Software. All rights reserved.
 //
 
+
+//.. create an alert controller that displays two buttons and responds differently to each button
+
 import UIKit
 
 class ViewController: UIViewController {
